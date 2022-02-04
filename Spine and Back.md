@@ -1,0 +1,970 @@
+- 
+- Spine and Back 
+    - 
+    - Spine and Back 
+        - AAA Spine REVISED
+            - Cauda equina
+                - Overview
+                    - Latin for {{“horse’s tail”}} 
+                    - Consists of spinal nerves ({{L2-C1}}) arising from the lumbosacral enlargement of the spinal cord and the conus medullaris.
+                    - Occupy the {{lumbar}} cistern = subarachnoid space distal to the conus medullaris
+                - RELATIONS ↓ 
+                    - Anterior: Posterior surface of vertebral bodies from L1 downwards, Posterior longitudinal ligament
+                    - Posterior: Posterior elements of the vertebral column – lamina, ligamentum flavum, spinous process from L1 downwards
+                    - Lateral: Pedicles and Neural exit foramina
+                    - Midline: Filum terminale (internum till S2 and externum till apex of coccyx)
+                    - Other: CSF, Dura/arachnoid layers, Internal vertebral venous plexus
+                - BLOOD SUPPLY ↓ 
+                    - ARTERIAL:
+                        - Radicular arteries supplying each nerve root – arise from Lumbar, Median sacral, Lateral sacral and Iliolumbar arteries.
+                        - Artery of the filum – supplies filum terminale. Direct extension of the Anterior spinal artery.
+                    - VENOUS:
+                        - 3 Anterior and 3 Posterior spinal veins – Anterior and Posterior radicular veins - internal and external vertebral plexus – systemic segmental veins
+                - 
+                - NERVE SUPPLY ↓ 
+                    - Motor innervation – Pelvic organs, Lower limbs and Internal/External anal sphincter
+                    - Sensory innervation – Perineum
+                    - Parasympathetic innervations - Bladder
+                    - 
+                - 
+                - VARIANTS ↓ 
+                    - Cord may terminate between T12 – L3
+                    - Ventriculus terminalis – remnant 5th ventricle between tip of conus medullaris and origin of filum terminale
+                    - Fatty filum terminale
+                - 
+                - DEVELOPMENT ↓ 
+                    - Spinal cord stops growing at infancy. At birth conus medullaris extends caudally as far as – L3-L4
+                    - Vertebrae continue to grow gradually. At 1 year – L1/L2
+                    - This is due to the relative growth of the human exceeding that of the spinal cord in childhood years
+                    - Spinal nerves arise from spinal cord and differential growth occurs such that, top end remains attached to the appropriate spinal cord segment and the lower end exits from the appropriate neural exit foramina
+                    - This results in a bundle of nerves extending downwards from the conus medullaris = Cauda equina
+                - 
+        - 
+        - 
+        - 
+        - Atlanto-occipital joints
+        - Atlantoaxial articulation (C1/C2)
+            - Overview
+                - three joints between Atlas and Axis
+            - ARTICULATION:
+                - Median Atlanto-axial joint:
+                    - between Anterior arch, Dens and Transverse ligament
+                    - Synovial Pivot joint
+                - Lateral Atlanto-axial joint:
+                    - paired joint between IAF of C1 and SAF of C2
+                    - Synovial gliding/planar joint
+                - Capsule:
+                    - Fibrous, thin, minimal support
+                    - 
+            - LIGAMENTS:
+                - Cruciate ligament:
+                    - Transverse band:
+                        - Between lateral masses of C1 and encloses the dens articulating with its posterior surface
+                    - Longitudinal band:
+                        - Between posterior base of Dens and Foramen magnum.
+                        - Divided into Superior and Inferior segments by Transverse band
+                - Anterior longitudinal ligament:
+                    - Between anterior tubercle and arch of C1 and Anterior surface of body of C2
+                - Ligamentum flavum:
+                    - Between anterior surface of laminae of C2 and posterior arch of C1
+                - Ligamentum nuchae:
+                    - Between posterior tubercle of C1 and notch in bifid spinous process of C2
+                - Apical ligament of dens:
+                    - Apex of dens to Basion (midpoint of anterior border of Foramen magnum)
+                - Alar ligament:
+                    - Lateral surface of Dens to anteromedial Occipital condyles
+                - Tectorial membrane:
+                    - Between posterior surface of body of C2 to Clivus and Foramen magnum posterior to Cruciate ligament – blends with dura
+            - 
+            - MOVEMENT:
+                - Flexion-extension 10-15 degrees
+                - Axial rotation 30 degrees
+                - Lateral flexion minimal
+                - 
+            - VARIANTS:
+                - Atlanto-axial fusion – complete or partial
+                - Os odontoideum – non fusion of Dens with body
+                - Persistent Os Terminale – failed fusion of Os terminale with Dens
+                - Bifid or retroverted Dens
+                - Non fusion of Anterior and Posterior arch of C1
+                - Non fusion of lateral masses
+                - Hypoplasia/Aplasia of Dens
+                - 
+        - Atlantoaxial or Atlas and Axis ligaments (C1/C2)
+            - The Atlas, Axis and Occiput articulate with each other through the Atlanto-occipital and the Atlanto-axial joints. Multiple ligaments strengthen this region to provide crucial structural stability.
+            - Ligaments, Anterior to Posterior (10):
+                1. Anterior atlanto-occipital membrane – Anterior arch of C1 to Anterior border of Foramen magnum
+                2. Anterior longitudinal ligament – Basilar part of occipital bone to Anterior tubercle of C1 and front of C2 to anterior surface of upper sacrum
+                3. Apical ligament of Dens – from tip of Dens to Basion (median point of anterior border of Foramen magnum
+                4. Alar ligaments – Lateral surface of Dens to Anterior medial occipital condyles
+                5. Cruciate ligament
+                    - Transverse band – Between Lateral masses of C1, encloses the Dens
+                    - Longitudinal band – posterior base of Dens to Foramen magnum – superior and inferior bands above and below the transverse band
+                6. Tectorial membrane – posterior surface of C2 body over cruciate ligament to Clivus and Foramen magnum – blends with dura. Superior continuation of the Posterior longitudinal ligament.
+                7. Posterior longitudinal ligament – Inferior continuation of the Tectorial membrane from posterior surface of C2 body to sacrum
+                8. Posterior atlanto-occipital membrane – Posterior arch of C1 to Posterior margin of Foramen magnum. Vertebral artery passes through laterally.
+                9. Ligamentum flavum – anterior surface of Lamina of vertebral arch. First pair starts at C1 to C2. Continues superiorly as the Posterior atlanto occipital membrane.
+                10. Ligamentum nuchae – External occipital protuberance to Posterior arch of C1 and notch in bifid spinous process of C2. Extension of Supraspinous ligament above C7.
+            - 
+        - Doral rami of the lumbar spinal nerve
+        - Joints between two typical cervical vertebrae
+            - 
+            - UNCOVERTEBRAL (LUSHKA’S):
+                - Between Uncinate process (lips curving upwards from lateral edge of vertebral body of C3-7) of lower vertebra and inferior bevelled surface of upper vertebra bilaterally
+                - Limits lateral movement of cervical vertebra
+                - Forms anterior border of Intervertebral foramen with the Vertebral artery and Spinal nerve roots lateral to it
+            - 
+            - INTERVERTEBRAL
+                - Between vertebral bodies via the intervertebral discs.
+                - Secondary cartilaginous joint
+                - Vertebral body surfaces covered by hyaline cartilage. Fibrocartilaginous disc adheres to this hyaline cartilage
+                - LIGAMENTS: Anterior and Posterior longitudinal ligaments
+                - MOVEMENT: Flexion, Extension, Lateral flexion, Rotation
+            - 
+            - FACET (ZYGAPOPHYSEAL)
+                - Between obliquely upward and backward facing Superior articular facet of vertebra below and obliquely forward and downward facing Inferior articular facet of vertebra above. These facets are at the tips of the articular process between the pedicle and lamina.
+                - Synovial gliding/planar joint
+                - LIGAMENTS: Facet joint capsule, Ligamentum flavum, Interspinous and Supraspinous ligament
+                - MOVEMENT: Flexion, Extension
+            - 
+            - VARIANTS
+                - Absent or underdeveloped uncinate process
+                - fused Facet joints
+                - fused Intervebral joint
+            - 
+            - 
+        - L4/5 lumbar intervertebral disc
+            - Overview
+                - Located between the inferior endplate of L4 and superior endplate of L5 vertebrae.
+                - Thicker anteriorly than posteriorly to account for lumbar lordosis (same as cervical, Thoracic same posteriorly)
+            - 
+            - FEATURES:
+                - ANNULUS FIBROSUS peripherally
+                    - 15-20 Type 1 collagenous laminae run obliquely downwards
+                    - Thinner and more disorganised posterolaterally = weaker thus herniation common
+                - NUCLEUS PULPOSUS centrally
+                    - Type 2 collagen fibers form thin lattice passing through hydrophilic glycosaminiglycans (replaced with fibrocartilage with age and degeneration)
+                    - Acts as hydraulic shock absorber
+            - 
+            - ATTACHMENTS:
+                - Anterior longitudinal ligament
+                - Posterior longitudinal ligament
+                - Origin of Psoas major
+                - 
+            - RELATIONS:
+                - Anterior – Anterior longitudinal ligament, Confluence of Common iliac veins, Left and right Common iliac arteries, Median sacral A
+                - Posterior – Posterior longitudinal ligament, L4 ventral ramus posterolateral + L5, S1-S5 and Coccygeal nerve roots (cauda equine) in vertebral canal, spinal meninges
+                    - Lateral – Psoas major, Lumbosacral trunk, Sympathetic chain, Bilateral ureters
+                    - 
+            - BLOOD SUPPLY:
+                - None. Nutrition from diffusion through vertebral body endplates.
+                - 
+        - Left vertebral artery
+        - Lumbar vertebral column - ligaments
+            - ANTERIOR LONGITUDINAL LIGAMENT
+                - Between basilar occipital bone TO S1 of sacrum
+                - Along anterior surface of body of vertebra and annulus fibrosus of intervertebral disc
+                - 
+            - POSTERIOR LONGITUDINAL LIGAMENT
+                - Between Posterior surface of body of C2 TO S1 of sacrum
+                - Along posterior surface of body of vertebral body and annulus fibrosus of intervertebral disc
+                - 
+            - LIGAMENTUM FLAVUM
+                - paired ligaments from posterior arch of C1 to S1 of sacrum
+                - Between anterior surface of laminae of two adjacent vertebrae
+                - 
+            - SUPRASPINOUS LIGAMENT
+                - Between tips of spinous process of adjacent vertebrae from C7 to S4
+                - 
+            - INTERSPINOUS LIGAMENT
+                - Between spinous processes of adjacent vertebrae from C2 to S1
+                - 
+            - INTERTRANSVERSE LIGAMENT
+                - Between transverse processes of adjacent vertebrae from C2 to S1
+                - 
+            - SPECIFIC TO LUMBAR VERTREBRAL COLUMN:
+                - ILIOLUMBAR LIGAMENT
+                    - from tips of L5 transverse process (96% of cases) to posterior part of inner lip of Iliac crest
+                    - 
+        - Lumbosacral articulations
+            - Overview
+                - Made of 3 joints between L5 vertebra and sacrum
+            - ARTICULATION:
+                - INTERVERTEBRAL JOINT:
+                    - Between L5 vertebral body and Sacral body via L5/S1 intervertebral disc (thicker anteriorly)
+                    - Secondary cartilaginous joint
+                - FACET (ZYGAPOPHYSEAL) JOINT:
+                    - Between forward facing Inferior articular facet on the Inferior articular process of L5 and backward facing Superior articular facet of the Sacrum
+                    - Synovial gliding/planar joint
+            - 
+            - ATTACHMENTS
+                - LIGAMENTS:
+                    - Anterior longitudinal ligament: Anterior surface body of L5 and S1
+                    - Posterior longitudinal ligament: Posterior surface of body of L5 and S1
+                    - Ligamentum flavum (L5 till S1 anterior surface of laminae), Interspinous, Supraspinous ligament
+                    - Iliolumbar ligament – TP of L5 to inner lip of Iliac crest
+            - VARIANTS:
+                - Lumbarisation of S1
+                - Sacralisation of L5
+                - Failure of segmentation – transitional vertebrae
+                - 
+            - RELATIONS:
+                - Anterior: Anterior Longitudinal ligament, Internal and external iliac veins joining into the Common iliac veins, Common iliac arteries dividing into Internal and External iliac arteries, Median sacral vessels
+                - Posterior: Erector spinae, Supraspinous and infraspinous ligaments
+                - Lateral: Psoas major, L5 ventral ramus, Obturator nerve, Lumbosacral plexus
+                - Superior: L5
+                - Inferior: S1 segment of sacrum
+        - Sacroiliac joint
+            - Overview
+                - paired Synovial and fibrous joint between sacrum (S1-3) and ilium. Main function – transfer weight between axial and lower appendicular skeleton.
+            - ARTICULATION:
+                - Between L-shaped Auricular surfaces of Sacral lateral mass and Ilium
+                - Upper third – Syndesmosis (fibrous joint with dense fibrous membrane between bony ends)
+                - Middle third – Synovial (Hyaline articular cartilage over bony ends enclosed in capsule with synovial fluid)
+                - Lower third – Symphysis (Secondary cartilaginous joint with fibrocartilage pad between hyaline cartilage articular ends
+                - Lined by Fibrocartilage – Stronger and abundant anteriorly and sacrally
+            - 
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Anterior sacroiliac ligament
+                        - Anterior to auricular surface of sacrum to anterior auricular surface of ilium
+                    - Interosseous sacroiliac ligament
+                        - Posterior margin of auricular surface (sacral tuberosity) to rough area between Iliac auricular surface and Posterior superior iliac spine.
+                    - Posterior sacroiliac ligament
+                        - Lateral Sacral crest (transverse processes and tubercles) to Posterior superior iliac spine
+                    - Sacrospinous ligament
+                        - Lateral margin of lower sacrum and coccyx TO Ischial spine
+                    - Sacrotuberous ligament
+                        - Posterior superior iliac spine, Posterior sacroiliac ligament, Lateral sacral crest, Lateral margin of lower sacrum and coccyx TO Ischial tuberosity
+                    - Iliolumbar ligament
+                        - Tips of Transverse process of L5 TO Iliac crest
+                        - 
+                - MUSCULOTENDINOUS:
+                    - Latissimus dorsi via thoracolumbar fascia
+                    - Gluteus maximus
+                    - Piriformis
+                    - 
+            - MOVEMENT:
+                - Minimal movement. Gliding and rotation
+                - 
+            - BLOOD SUPPLY:
+                - ARTERIAL:
+                    - Iliolumbar, Superior lateral sacral, Superior Gluteal (posterior division of Internal iliac)
+                - VENOUS
+                    - Correspond to arteries
+                    - 
+            - INNERVATION:
+                - Lumbosacral plexus: Dorsal rami S1-2, Superior Gluteal nerve
+                - 
+            - RELATIONS:
+                - Anterior: Lumbosacral trunk, Internal and External iliac veins form Common iliac vein, Obturator nerve, Ureter, Piriformis
+                - Posterior: Gluteus maximus, Erector spinae
+            - VARIANTS:
+                - Accessory Sacroiliac joint – articulation between Posterior superior iliac spine and sacrum lateral to 2nd posterior sacral foramina
+            - 
+        - Sacrum
+            - Overview
+                - Penultimate segment of vertebral column. Formed by fusion of 5 sacral vertebrae. Posterior part of bony pelvis. Transmits total body weight from Axial skeleton to Lower appendicular skeleton.
+            - 
+            - FEATURES:
+                - Roughly inverted triangle. Curved with Anterior concavity and posterior convexity
+                - BODY:
+                    - Central column formed by fusion of five sacral vertebral bodies
+                    - Sacral Promontory – Prominent anterior projecting edge of S1
+                - LATERAL MASS:
+                    - fused anterior Costal elements and posterior Transverse process of S1-S5 vertebra
+                    - Ala – Superior wing like surface
+                    - Auricular surface – Lateral L shaped region – Articulates with auricular surface of Ilium
+                - DORSAL SURFACE:
+                    - Median sacral crest = fused spinous processes with spinous tubercles of S1-4
+                    - Intermediate sacral crest = fused articular processes with articular tubercles. S1 IAF – S5 SAF.
+                        - S1 superior articular process have Superior articular facets – concave facing backwards
+                        - S5 inferior articular process (Sacral cornu) – project downwards
+                    - Lateral sacral crest – fused transverse prcesses with transverse tubercles of S1-S5
+                    - Posterior sacral foramina-between intermediate and lateral sacral crest. 4 in number.
+                        - Transmit – Dorsal rami S1-S4.
+                - SACRAL CANAL:
+                    - Triangular continuation of Lumbar spinal canal. Contains sacral and coccygeal nerve roots, spinal meninges and the filum terminale internum till S2. Filum terminale externum till coccyx
+                    - Sacral hiatus – Lamina of S5 does not fuse posteriorly leaving spinal canal open.
+                        - Transmits - S5 nerves, Coccygeal nerves (2), Filum terminale externum
+                - PELVIC SURFACE:
+                    - Transverse ridges – fused intervertebral discs
+                    - Anterior sacral foramina – between median body and lateral mass. 4 in number.
+                        - Transmit – Ventral rami S1-S4 + Lateral sacral As
+            - 
+            - ARTICULATIONS:
+                - LUMBOSACRAL:
+                    - Intervertebral - S1 body superior endplate with L5 body inferior end plate via L5/S1 disc
+                    - Facet – Superior articular facet of S1 (backward facing) articulates with Inferior articular facet of L5 (forward facing)
+                - SACROILIAC: Auricular surface of sacral lateral mass and ilium
+                - SACROCOCCYGEAL:
+                    - Intervertebral – between S5 and coccyx
+                    - Facet - between Sacral cornu and coccygeal cornu
+            - 
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Anterior longitudinal ligament – anterior part body of S1
+                    - Posterior longitudinal ligament – posterior part of body of S1
+                    - Ligamentum flavum – anterior surface of S1 lamina
+                    - Supraspinous ligament – along spinous tubercles of median sacral crest
+                    - Anterior sacroiliac ligament – anterior margin auricular surface
+                    - Interosseous Sacroiliac ligament – Posterior margin of auricular surface
+                    - Posterior sacroiliac ligament – Transverse tubercles
+                    - Sacrotuberous ligament – Lateral mass inferior border
+                    - Sacrospinous ligament – Lateral mass inferior border
+                    - Sacrococcygeal ligament – inferior lateral angle
+                - MUSCULOTENDINOUS:
+                    - Ala - Lateral rough area – Iliacus
+                    - Lateral mass – S2-S4 pelvic surface – Piriformis
+                        - Inferior border posteriorly – Gluteus maximus
+                        - Inferior border anteriorly - Coccygeus
+                    - Spinous and Transverse tubercles – Erector spinae
+                    - Between Spinous and transverse tubercles – Multifidus
+            - 
+            - BLOOD SUPPLY:
+                - ARTERIAL:
+                    - Iliolumbar, Superior Lateral sacral, Inferior lateral sacral – br of Posterior division of Internal Iliac
+                    - Median sacral – br of abdominal Aorta
+                - VENOUS:
+                    - Vertebral venous plexus – Median sacral V (common iliac/IVC) + Lateral sacral vein (internal iliac)
+            - 
+                - OSSIFICATION:
+                    - PRIMARY – 21
+                        - vertebral body x5, neural arch x10, costal bars (s1-3) x6
+                        - Appear 2-8 weeks. Fuse 2-8 years
+                    - SECONDARY – 14
+                        - Epiphyses of body x10, Auricular process x2, Margins below auricular process x2
+                        - Appear puberty. Fuse 25 years.
+                        - 
+                - VARIANTS:
+                    - Lumbosacral transition vertebra – Sacralisation of L5, Lumbarisation of S1
+                    - Sacral agenesis
+                    - Male – longer, narrower. Curvature shallower and more evenly distributed over the length
+                    - Female – Shorter, wider. Lower half forms greater angle with upper half. Sacrovertebral angle sharper
+                    - 
+            - RELATIONS:
+                - Anterior:
+                    - Ala – Medial to Lateral – Sympathetic chain, Lumbosacral trunk, Iliolumbar A, Obturator nerve. Psoas anterior to all
+                    - Pelvic surface – Median sacral vessels, Peritoneum (S1-2) interrupted by medial limb of Sigmoid mesocolon (ends at S3), Rectum (S3-5), Bifurcation of Superior rectal vessels between S3 and rectum, Piriformis
+            - 
+        - Spinal cord
+            - Overview
+                - Inferior extension of the central nervous system surrounded by CSF. Relays information through ascending and descending tracts between brainstem and body. Approximately 45cm long
+                - Originates at the Foramen magnum as the inferior continuation of the brainstem
+                - Travels within the thecal sac in the central canal of the vertebral column
+                - Terminates at approximately the L1 level in adults, L2 in neonates and L2/L3 intervertebral space in Foetus
+                - Gives off 31 pairs of segmental spinal nerves laterally – 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal
+            - 
+            - FEATURES:
+                - EXTERNALLY:
+                    - Cervical enlargement
+                        - Thickening of spinal cord in the cervical region representing the Brachial plexus (C5 – T1 nerve origins) which supply the upper limb.
+                    - Lumbosacral enlargement
+                        - Thickening of spinal cord in the lumbosacral region representing the Lumbosacral plexus (L1-S3 nerve origins) which supply the lower limbs
+                    - Conus medullaris
+                        - cone shaped distal end of the spinal cord at the L1 level in adults – origin of sacral and coccygeal nerve roots
+                    - Filum terminale
+                        - Fibrous sheath of connective tissue continues inferiorly from the conus medullaris as a modification of the pia mater
+                        - Filum terminale internum – extends till S2
+                        - Filum terminale externum – extends till coccyx apex
+                    - Anterior median fissure
+                        - deep groove extends through the length of the anterior surface
+                    - Posterior median fissure
+                        - shallower groove extrends through the length of the posterior surface
+                    - Posterolateral sulcus
+                        - paired shallow sulci along the posterolateral surface where the posterior nerve roots enter the spinal cord
+                - INTERNALLY:
+                    - Central canal
+                        - small in calibre filled with CSF
+                    - Grey matter
+                        - H shaped central area form anterior, posterior and lateral horns
+                        - contain cell bodies of neurons and glial cells
+                        - Anterior=skeletal motor; Lateral =autonomic for visceral+pelvic organs; Posterior=somatosensory
+                    - White matter
+                        - peripheral area divided into anterior, posterior, lateral columns and anterior spinal commissure – tracts between the body and the brain
+                        - contain mainly axons of neurons
+                        - Anterior= spinothalamic tracts; Lateral=corticospinal tracts; Posterior=Dorsal column tracts
+            - 
+            - BLOOD SUPPLY:
+                - ARTERIAL
+                    - Anterior spinal artery – Br of Vertebral A in anterior median fissure
+                    - Posterior spinal arteries – paired. Br of Vertebral A/Posteroinferior cerebellar artery (PICA)
+                    - Segmental medullary arteries – reinforce cord supply from PICA, VA, Ascending cervical, Deep cervical, Posterior intercostal, Lumbar and Lateral sacral arteries
+                        - Radicular artery: supply spinal nerve roots
+                        - Artery of Adamkiewicz – typically left sided (80%) arises from T9-T11 (posterior inferior intercostals) arteries, T12 (subcostal) artery or L1-L2 (lumbar) arteries
+            - 
+            - VENOUS:
+                - 3 Anterior and 3 Posterior spinal veins – Anterior and Posterior radicular veins - internal and external vertebral plexus – systemic segmental veins
+            - 
+            - VARIANTS:
+                - Cord may terminate between T12 – L3
+                - Ventriculus terminalis – remnant 5th ventricle between tip of conus medullaris and origin of filum terminale
+                - Fatty filum terminale
+            - 
+        - Spinal cord (and cauda equina) - arterial supply
+            - Overview
+                - Multiple vessels with an extensive collateral supply and drainage
+            - 
+            - ARTERIAL  ↓ 
+                - ASA (single)
+                - PSA (paired)
+                - Segmental medullary or radiculomedullary
+                - Arterial vasocorona
+                - Anterior spinal artery (single) ↓ 
+                    - Origin from Vertebral arteries that anastomose in the midline
+                    - Course: in the anterior median fissure
+                    - Termination: at the Conus medullaris
+                    - Branches:
+                        - Sulcocentral branches to spinal cord
+                        - br to pial plexus – anastomosis with posterior spinal and segmental medullary arteries
+                    - Supply: Anterior 2/3 of spinal cord
+                - Posterior spinal artery (paired) ↓ 
+                    - Origin: Vertebral arteries (25%) or PICA (75%). Paired vessel
+                    - Course: travels in the posterolateral sulcus bilaterally
+                    - Termination: at the Conus medullaris
+                    - Branches:
+                        - Sulcocentral branches to spinal cord
+                        - br to pial plexus – anastomosis with anterior spinal and segmental medullary arteries
+                    - Supply: Posterior 1/3 of spinal cord
+                - Segmental medullary arteries (or radiculomedullary) ↓ 
+                    - Origin superior to inferior: PICA, Spinal branch of VA, Ascending cervical, deep cervical, Posterior intercostal, subcostal, Lumbar, Lateral sacral arteries
+                    - Course: travel through intervertebral foramen to divide into anterior and posterior radicular br
+                    - Termination: anastomosis of anterior and posterior radiuclar branches with ASA and PSA
+                    - Supply: Anterior and Posterior nerve roots, reinforce Anterior spinal artery and Posterior spinal arteries, Vertebral body and Dura mater
+                - **Artery of Adamkiewicz**  ↓ 
+                    - Greater anterior segmental medullary (radicular) artery
+                    - Origin: Commonly left sided (80%) from T9-T11 (posterior inferior intercostals) arteries, T12 (subcostal) artery or L1-L2 (lumbar) arteries
+                    - Course: Ascends in the midline on the anterior aspect of spinal cord, performs a “hair-pin” turn at its anastomosis with ASA
+                    - Supply: T8 to conus medullaris
+                - Arterial vasocorona ↓ 
+                    - The anterior and posterior spinal arteries are connected by pial anastomoses called the [arterial vasocorona](https://radiopaedia.org/articles/arterial-vasocorona), which encircles the cord and supplies the peripheral lateral aspect of the spinal cord.   
+            - 
+            - VENOUS:
+                - 3 Anterior and 3 Posterior spinal veins – Anterior and Posterior radicular veins - internal and external vertebral plexus – systemic segmental veins to systemic circulation + dural venous sinuses/cerebral veins
+            - 
+            - VARIANTS:
+                - Anterior spinal artery:
+                    - Variable origin: Single origin from one Vertebral artery
+                    - Duplicate – failure of fusion in midline
+                    - Duplication of branch of vertebral artery from one side
+                    - Dominant right or left branch of VA
+                    - Delayed fusion of vertebral artery branches in midline at cervical spine(C2-C3)
+                - Posterior spinal artery:
+                    - Variable origin: from Vertebral artery or PICA
+                - Artery of Adamkiewicz
+                    - Right sided (20%) left sided (80%)
+                    - Variable origin: Lumbar (L1-L2) 10%, High thoracic (T5-T8) 15%
+                    - Bilateral incidence
+        - Spinal epidural space
+            - FEATURES:
+                - Potential space between dura mater and periosteum and ligaments of the vertebral column.
+                - Not continuous with cranial extradural space.
+                - Superiorly bounded by fusion of Dura to Foramen magnum
+                - Inferiorly bounded by the Posterior sacrococcygeal ligament that closes the sacral hiatus
+            - RELATIONS:
+                - Anterior – ALL, PLL, Vertebral bodies and intervertebral discs , Psoas muscle, External vertebral venous plexus
+                - Posterior – Ligamentum Flavum, Vertebral laminae, Spinous process, Erector spinae, Supraspinous, Interspinous ligaments
+                - Lateral – Vertebral pedicles and transverse processes, Neural exit foraminae and dorsal+ventral spinal nerve roots, Denticulate ligaments
+            - CONTENTS:
+                - Fat
+                - Dural sac till S2
+                - Spinal cord till L1 and cauda equina
+                - Spinal nerve roots S3-coccygeal
+                - Filum terminale internum from L1 to S2
+                - Filum terminale externum from S2 to coccyx
+                - Vessels (Radicular, Segmental medullary and Spinal)
+                - Internal vertebral venous plexus
+                - Lymphatics
+                - 
+        - Spinal meninges and associated spaces
+            - Overview 
+                - Contained within the spinal canal and encase the spinal cord, spinal nerve roots and the cauda equina.
+            - LAYERS:
+                - DURA MATER
+                    - Outermost layer.
+                    - Extension of cranial dura mater, extending from Foramen magnum to S2 where it invests the filum terminale externum till the apex of coccyx dorsally.
+                    - Lateral projections form dural sleeves over spinal nerve roots which pierce it segmentally.
+                - ARACHNOID MATER
+                    - Middle layer
+                    - Thin avascular membrane, deep to dural sac and nerve root sheaths
+                - PIA MATER
+                    - Innermost layer
+                    - Vascular membrane that invests spinal cord and spinal nerve roots, blending with epineurium
+                    - Extends into anterior median fissure and produce sleeve like coating over the nerve roots as they traverse the subarachnoid space.
+            - 
+            - Denticulate ligaments
+                - paired triangular processes with base fixed at the piamater and apex at the dura
+                - 18-21 pairs from Foramen magnum to T12-L1 between the spinal nerve roots
+            - Pachymeninges = Dura + Arachnoid
+            - Leptomeninges = Arachnoid + Pia
+            - SPACES:
+                - EPIDURAL SPACE:
+                    - Potential space between Dura and Periosteum and ligaments of the vertebral canal.
+                    - Not continuous with cranial extradural space.
+                    - Superiorly bounded by fusion of dura to foramen magnum
+                    - Inferiorly bounded by Posterior sacrococcygeal ligament that closes the sacral hiatus
+                    - Contents: Fat, dural sac till S2, vessels (radicular, segmental medullary and spinal), Internal vertebral venous plexus, spinal nerve root S3-Coccygeal
+                - SUBDURAL SPACE:
+                    - Potential space between Dura and Arachnoid mater
+                - SUBARACHNOID SPACE:
+                    - Space between Arachnoid and Pia mater
+                    - Continuous with cranial subarachnoid space
+                    - Content: Arachnoid trabeculae, CSF, veins, arteries (radicular, segmental medullary and spinal), Cauda equina
+                    - Lumbar cistern: Enlargement of subarachnoid space within dural sac from conus medullaris (L1) to S2. Contains CSF and nerve roots of Cauda equina
+            - 
+        - Sympathetic trunk or chain
+            - Overview
+                - Component of Autonomic nervous system, composed of General visceral sympathetic fibres
+            - 
+            - GROSS ANATOMY:
+                - LOCATION:
+                    - Paired longitudinally arranged, paravertebral sympathetic ganglia extending from base of skull to coccyx, linked by myelinated axons
+                    - 23 paired sympathetic ganglia and 1 unpaired coccygeal sympathetic ganglion
+                - PARTS:
+                    - Cervical:
+                        - Superior cervical ganglion – fused C1-C4 ganglion
+                        - Middle cervical ganglion – fused C5, C6 ganglion
+                        - Stellate ganglion = Inferior cervical ganglion + T1 sympathetic ganglion – fused C7-T1 ganglion
+                    - Thorax – T2-T12 sympathetic ganglia – paravertebrally in the Posterior mediastinum
+                    - Abdomen – L1-L5 sympathetic ganglia – paravertebrally, anteromedial to Thoracolumbar fascia and posteromedial to psoas major muscle
+                    - Pelvic – S1-S5 sympathetic ganglia – anterolateral to anterior sacral foramina
+                    - Coccyx – unpaired single Coccygeal ganglion – Ganglion Impar
+            - 
+            - BRANCHES:
+                - HEAD
+                    - Superior cervical ganglion - sympathetic fibres to the head along branches of ICA/ECA
+                        - Along Opthalmic artery – supply Dilator papillae and Levator palpebrae superioris
+                        - Deep petrosal nerve – joins Greater petrosal nerve (CN 7) to form Nerve of Pterygoid canal
+                        - Along ECA – branches to Sublingual, Submandibular and Parotid gland
+                        - Nerve to pharyngeal plexus – combines with CN 9 and 10
+                        - Superior cardiac branch – Cardiac plexus
+                        - Nerve to CN 2, 3, 4, 6, 9
+                        - Ventral rami of C1 –C4 – sends sympathetic fibres
+                        - 
+                - NECK/THORAX
+                    - Middle cervical ganglion
+                        - Along Inferior thyroid artery – fibres to Larynx, Pharynx, Trachea, upper Oesophagus
+                        - Middle cardiac branch – Cardiac plexus
+                        - Ventral rami of C5-C6 – sends sympathetic fibres
+                    - Stellate ganglion (Inferior cervical ganglion + T1 ganglion)
+                        - Subclavian and Vertebral artery branches
+                        - Inferior cardiac branch
+                        - Ventral rami of C7-T1
+                    - Thoracic cardiac branches (T2-T4)
+                        - Contribute to Cardiac, Oesophageal and Thoracic aortic plexus
+                        - 
+                - ABDOMEN
+                    - Greater splanchnic nerve (T5-T9)
+                        - Originate in posterior mediastinum and entoer abdomen by piercing Left crura
+                        - Join Coeliac plexus and Coeliac ganglia
+                        - Supply – Liver (Hepatic plexus), Gall bladder, Bile duct, Spleen (Splenic plexus), Pancreas, Adrenal (Suprarenal plexus), Foregut
+                - 
+                    - Lesser splanchnic nerve (T10, T11)
+                        - Originate in posterior mediastinum and entoer abdomen by piercing Left crura
+                        - Join Superior mesenteric plexus and Ganglia - Supplies Midgut
+                        - Join Aorticorenal ganglion – Supply Kidney
+                        - Follow Gonadal vessels to supply Ovaries/Testes
+                        - 
+                    - Least splanchnic nerve (T12) + Lumbar splanchnic nerves (L1-L5)
+                        - Join Inferior mesenteric ganglion – supply Hindgut
+                        - Superior hypogastric plexus – formed by fibres from Inferior mesenteric ganglion
+                        - 
+                - PELVIS
+                    - Inferior hypogastric plexus (Right, Left)
+                        - Anterolateral to Sacral promontory
+                        - From descending fibres of Superior hypogastric plexus
+                        - 
+                    - Sacral splanchnic nerves (S1-S5)
+                        - Branches to Inferior hypogastric plexus
+                        - Supply – Bladder (Vesical plexus), Rectum (Rectal plexus), Uterus/Prostate (Uterovaginal/Prostatic plexus)
+            - 
+            - VARIANTS:
+                - Absent Middle cervical ganglion
+                - Absent Stellate ganglion – Unfused Inferior cervical and T1 ganglia
+                - Double superior cervical ganglion
+                - Absent Superior cardiac branch (on right)
+                - Variable root value of the Splanchnic nerves
+                - 
+        - Thoracic vertebral column ligaments
+            - ANTERIOR LONGITUDINAL LIGAMENT
+                - Between basilar occipital bone TO S1 of sacrum
+                - Along anterior surface of body of vertebra and annulus fibrosus of intervertebral disc
+                - 
+            - POSTERIOR LONGITUDINAL LIGAMENT
+                - Between Posterior surface of body of C2 TO S1 of sacrum
+                - Along posterior surface of body of vertebral body and annulus fibrosus of intervertebral disc
+                - 
+            - LIGAMENTUM FLAVUM
+                - paired ligaments from posterior arch of C1 to S1 of sacrum
+                - Between anterior surface of laminae of two adjacent vertebrae
+                - 
+            - SUPRASPINOUS LIGAMENT
+                - Between tips of spinous process of adjacent vertebrae from C7 to S4
+                - 
+            - INTERSPINOUS LIGAMENT
+                - Between spinous processes of adjacent vertebrae from C2 to S1
+                - 
+            - INTERTRANSVERSE LIGAMENT
+                - Between transverse processes of adjacent vertebrae from C2 to S1
+                - 
+            - SPECIFIC TO THORACIC VERTREBRAL COLUMN:
+                - SUPERIOR COSTOTRANSVERSE LIGAMENT
+                    - Between neck of rib and transverse process of vertebra above
+                    - Absent from 1st rib
+                    - 
+                - LATERAL COSTOTRANSVERSE LIGAMENT
+                    - Between tip of transverse process of numbered vertebra AND non articular rough part of tubercle of rib
+                - 
+                - COSTOTRANSVERSE LIGAMENT
+                    - Between posterior surface of neck of rib and anterior surface of transverse process of numerically corresponding vertebra.
+                - 
+                - RADIATE LIGAMENT
+                    - fan shaped ligament connecting anterior surface of head of rib TO lateral surface of vertebral body of two vertebrae and the intervening intervertebral disc via three bands
+                        - Superior band to vertebral body above
+                        - Inferior band to numbered vertebral body
+                        - Central band to blends with intervertebral disc runs deep to ALL to join opposite side ligament
+                    - First rib – attached to C7 and T1
+                    - 10 to 12 rib – attach to single vertebra – ligament attached to numbered vertebra and the one above
+                - 
+                - INTRA-ARTICULAR LIGAMENT
+                    - Short flat ligament. Between intervertebral disc AND ridge in between articular facets on head of rib, dividing the joint.
+                    - Absent  from first and 10-12 joints.
+            - 
+        - Vertebra C1 (atlas)
+            - one of the three atypical cervical vertebra. The most superior vertebra. Ring shaped. No body or spine.
+            - FEATURES:
+                - ANTERIOR ARCH:
+                    - median Anterior tubercle
+                    - Posterior facet for the dens
+                - POSTERIOR ARCH:
+                    - median Posterior tubercle
+                    - superior Groove posterior to lateral mass – Vertebral artery and exiting C1 nerve
+                - LATERAL MASSES:
+                    - Superior articular facet: bean shaped, medially directed
+                    - Inferior articular facet: oval shaped, medially directed
+                - TRANSVERSE PROCESS:
+                    - long for cervical vertebra with large Transverse foramen. Occasional small Anterior tubercle
+                    - 
+            - ARTICULATION:
+                - ATLANTO-OCCIPITAL JOINT:
+                    - Between occipital condyles and Superior articular facets of C1
+                - ATLANTO-AXIAL JOINT:
+                    - Lateral – Between Inferior articular facets of C1 and Superior articular facets of C2
+                    - Median – Between posterior facet of Anterior arch of C1 and anterior surface of Dens of C2
+                    - 
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Anterior longitudinal ligament – Anterior tubercle
+                    - Anterior atlanto-occipital membrane – Anterior arch to anterior margin of Foramen magnum
+                    - Transverse ligament of Atlas – articulates with posterior surface of Dens of C2
+                    - Posterior atlanto-occipital membrane – Posterior arch (continuation of ligamentum flavum) to posterior margin of Foramen magnum
+                    - Ligamentum nuchae – Posterior tubercle of Posterior arch
+                - MUSCULOTENDINOUS:
+                    - Anterior tubercle – Longus colli superior oblique part
+                    - Posterior tubercle – Rectus capitis posterior minor
+                    - Lateral mass – Rectus capitis anterior
+                    - Transverse process (A to P) - Rectus capitis lateralis, Splenius cervicis, Levator scapulae, Obliquus capitis inferior, Obliquus capitis superior, Intertransversarii
+            - 
+            - OSSIFICATION:
+                - Lateral mass – 2 centers (appear 7 wks IU; fuse 3-4 years)
+                - Anterior arch – 1 center (appear 1 year; fuse 6-8 years)
+                - 
+            - VARIANTS:
+                - Arcuate foramen – calcification of posterior atlanto-occipital membrane
+                - Non fusion of anterior and posterior arches
+                - Non fusion of lateral masses – Anterior arch and posterior arch articulate with occipital condyles via separate facets.
+                - Fusion with occiput – partial or complete
+            - 
+            - RELATIONS:
+                - Anterior: Flexors of head and neck (Rectus capitis anterior, Longus colli, Longus capitis), Pharyngeal raphe, Retropharyngeal and Pharyngeal mucosal space
+                - Posterior: Ligamentum nuchae, Extensors of head and neck (Rectus capitis posterior major and minor)
+                - Lateral: ICA, Vertebral A
+                - Superior: Occiput, Foramen magnum and its contents, VA, C1 ventral ramus between SAF and VA
+                - Inferior: C2 and C2 ventral ramus
+            - 
+        - Vertebra C2 (axis)
+            - Overview
+                - Second cervical vertebra. 
+                - one of the three atypical cervical vertebra. 
+                - Most prominent feature is Odontoid process (or Dens) which is embryologically the body of atlast C1.
+                - It plays an important role in rotation of the head with the majority of movement occurring around the dens and at the [atlanto-axial](https://radiopaedia.org/articles/atlanto-axial-articulation)[joint](https://radiopaedia.org/articles/atlanto-axial-articulation).   
+            - FEATURES:
+                - Anterior components
+                    - DENS: superiorly protruding process from body
+                    - BODY: lateral mass bears the weight of skull and transfers through to C3 vertebral body
+                    - ARTICULAR FACETS:
+                        - Superior – round, convex and directed laterally
+                        - Inferior - faces obliquely downwards and forwards, typical for cervical vertebra
+                    - TRANSVERSE PROCESS: contains transverse foramen directed superolaterally for VA and vein
+                - Posterior components
+                    - VERTEBRAL ARCH:
+                    - PEDICLE: thick. Anterosuperior Groove for VA. Inferior intervertebral notch for exiting C3 spinal nerve
+                    - LAMINA: thick and strong
+                    - VERTEBRAL FORAMEN: Large and round
+                    - SPINOUS PROCESS: large, thick, strong, horizontal and bifid
+            - ARTICULATION:
+                - ATLANTO-AXIAL JOINT C1/C2:
+                    - Median – anterior surface of Dens of C2 with posterior facet of Anterior arch of C1
+                    - Lateral – Inferior articular facets of C1 with Superior articular facets of C2
+                - WITH C3:
+                    - Uncovertebral: between uncinate process of C3 and inferior bevelled surface of C2
+                    - Intervertebral: With C3 via C2/C3 intervertebral disc
+                    - Facet (Zygapophyseal): between superior articular facet of C3 and inferior articular facet of C2
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Apical ligament of dens – apex of Dens to Basion (anterior margin of Foramen magnum)
+                    - Alar ligaments (paired) – sloping upper margin of dens to anterior margin of foramen magnum
+                    - Cruciate ligament
+                        - Longitudinal band – attached from the body of the axis to the basiocciput  
+                        - Transverse band – medial aspect of lateral masses C1 to posterior surface of Dens.
+                        - found between the tectorial membrane and apical ligament 
+                    - Anterior longitudinal ligament: connects anterior bodies of C2 and C3 and anterior arch of C1
+                    - Ligamentum flavum – anterior surface of lamina
+                    - Ligamentum Nuchae – notch in bifid spinous process
+                    - accessory atlantoaxial ligament: from posterior body of C2 to lateral mass of C1 
+                    - anterior atlantoaxial membrane: from the body of the C2 to the anterior arch of C1
+                    - posterior atlantoaxial membrane (upper part of the ligamentun flavum between C1 and C2)
+                - TECTORIAL MEMBRANE
+                    - extends upward in continuity with PLL
+                    - attached to back of body of C2 and anterior margin of foramen magnum
+                - MUSCULOTENDINOUS:
+                    - Anterior vertebral body – Longus colli vertical part
+                    - Transverse process – Levator scapulae, Scalenus medius, Splenius cervicis, 
+                    - Spinous process – Semispinalis cervicis, Rectus capitis posterior major, Obliquus capitis inferior, Spinalis cervicis, Multifidus, Interspinales
+                    - 
+            - RELATIONS:
+                - Anterior: Anterior atlantoaxial membrane, Anterior longitudinal ligament
+                - Posterior:  posterior atlantoaxial membrane, Ligamentum nuchae
+                    - posterior to dens important ligamentous structures are attached to the dens and play an important role in C1/C2 stability:
+                        - [cruciform ligament](https://radiopaedia.org/articles/cruciate-ligament-of-the-atlas)
+                        - [apical ligament](https://radiopaedia.org/articles/apical-ligament): embryological remnant of the notochord
+                        - [alar ligament](https://radiopaedia.org/articles/alar-ligament)
+                        - accessory ligament
+                        - tectorial membrane
+                - Lateral: VA and vertebral veins
+                - Supero-posteriorly: sub-occipital triangle
+                - Centrally: spinal cord traverses vertebral foramen, basivertebral veins
+            - 
+            - BLOOD SUPPLY:
+                - apex = branches of internal carotid artery
+                - base = branches of vertebral artery
+                - the limited blood supply in this watershed area is thought to affect healing of type II odontoid fractures.
+            - 
+            - OSSIFICATION:
+                - Primary 5
+                    - Vertebral arch x2 (appear 7 or 8 week of life, arch fuses 2-3 years), 
+                    - Vertebral body x1 (appear 4 or 5 month of life, body fuses with dens at 3-6 years), 
+                    - dens x2 (appear at 6 months, fuse before birth forming conical mass)
+                    - vertebral arch fuses to body at 3-6 years
+                - Secondary 2
+                    - Os terminale (apex of dens) (appears 5-8 years; fuses 12 years),
+                        - from cuneiform cartilage
+                        - variable appearance and fusion
+                    - dens separated from the vertebral body by a cartilaginous disc
+                        - circumference ossifies
+            - VARIANTS:
+                - Os odontoideum – failed fusion of Dens to body
+                - Persistent Os terminale – failure of fusion of Os terminale with Dens
+                - Hypoplasia or aplasia of Dens
+                - Non bifid spinous process
+                - Atlanto-axial joint fusion
+                - Bifid or retroverted Dens
+                - 
+        - Vertebra C7
+            - Overview
+                - One of the three atypical cervical vertebra. Lowest and largest – Vertebra Prominens
+            - FEATURES:
+                - BODY:
+                    - wide transversely than anteroposteriorly
+                    - posterolateral upward lip = Uncinate process
+                - VERTEBRAL ARCH:
+                    - PEDICLE
+                    - LAMINA
+                    - VERTEBRAL FORAMEN - triangular
+                    - ARTICULAR PILLARS:
+                        - Between pedicles and laminae
+                        - Articular facets – Superior facing obliquely upwards and backwards and Inferior facing obliquely downwards and forwards
+                - TRANSVERSE PROCESS:
+                    - projected inferiorly compared to T1
+                        - small or absent Transverse foramen – Vertebral artery does not pass through it
+                - SPINOUS PROCESS:
+                    - Thick, long, projecting horizontally.
+                    - Not bifid. Ends in a Tubercle.
+                    - 
+            - ARTICULATION:
+                - INTERVERTEBRAL:
+                    - Joint via intervertebral discwith C6 superiorly and T1 inferiorly
+                - UNCOVERTEBRAL:
+                    - Between uncinated process of C7 and inferior bevelled surface of C6 body
+                - FACET (ZYGAPOPHYSEAL)
+                    - Between Superior articular facets of C7 and Inferior articular facets of C6
+                    - Between Inferior articular facets of C7 and Superior articular facets of T1
+                    - 
+            - NEURAL EXIT FORAMEN (NEF)
+                - C7 nerve exits from the C6/C7 NEF
+                - C8 nerve exits from the C7/T1 NEF
+                - 
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Anterior longitudinal ligament
+                    - Posterior longitudinal ligament
+                    - Ligamentum flavum
+                    - Ligamentum Nuchae
+                    - Supraspinous, Interspinous and Intertransverse ligaments
+                    - Radiate ligament of costovertebral joint for first rib
+                - MUSCULOTENDINOUS:
+                    - Body – Longus colli vertical part
+                    - Transverse process – first Levator costarum, Scalenus medius, Scalenus posterior, Scalenus minimus (pleuralis) when present, Suprapleural membrane, Intertransversarii, Iliocostalis cervicis, Longissimus capitis,cervicis
+                    - Spinous process – Trapezius, Rhomboid minor, Serratus posterior superior, Splenius capitis, Spinalis capitis, Semispinalis thoracis, Multifidus, Interspinales
+            - 
+            - OSSIFICATION:
+                - Vertebral arches fuse posteriorly at 2-3 years. Body fuse with arch at 3-6 years.
+                - SECONDARY: tips of transverse process x2, tip of spinous process x1, superior and inferior aspect of body – fuse at ~30years
+                - PRIMARY: body x1, vertebral arch x2 (appear 9-10 weeks).
+            - 
+            - VARIANTS:
+                - May possess Cervical rib
+                - Vertebral artery may enter Transverse foramen at this level instead of C6
+                - Bifid spinous process
+                - Septated or Accessory transverse process
+                - Vertebral vein may pass through C7 Transverse foramen in case of duplication
+                - 
+            - RELATIONS:
+                - Anterior: Anterior longitudinal ligament, Flexors of neck, cervical Oesophagus, Retropharyngeal and Pharyngeal mucosal space
+                - Posterior: Ligamentum nuchae, Extensors of neck
+                - Lateral: VA passes anterior to transverse process, CCA and IJV anterolateral, Scalene muscles
+                - Superior: C6, C7 ventral root ramus
+                - Inferior: T1, C8 ventral root ramus
+                - 
+        - Vertebra Cervical, all
+            - Overview
+                - Total 7. C3-C6 Typical. C1, C2, C7 atypical
+            - FEATURES:
+                - BODY:
+                    - small. Broader transversely than anteroposteriorly
+                    - laterally lips projected upwards = Uncinate process
+                - VERTEBRAL ARCH:
+                    - PEDICLE: delicate, projected posetrolaterally.
+                    - LAMINA: thin and narrow
+                    - VERTEBRAL FORAMEN: large, triangular
+                    - ARTICULAR PROCESS:
+                    - superior and inferior. Between pedicles and lamina.
+                    - Articular facets – Superior facing obliquely upwards and backwards, Inferior facing downwards and forwards.
+                - TRANSVERSE PROCESS:
+                    - Project laterally. Contain Transverse foramen for vertebral artery, veins, br from inferior cervical ganglion
+                        - Anterior and Posterior tubercle with superior Groove for exiting spinal nerve
+                            - prominent C6 anterior tubercle (Carotid tubercle)
+                - SPINOUS PROCESS:
+                    - short and bifid. Projecting inferiorly.
+                    - 
+            - ARTICULATION:
+                - INTERVERTEBRAL:
+                    - superior and inferior. Interposed between hyaline cartilage on centrum of vertebral body
+                - UNCOVERTEBRAL:
+                    - between uncinated process of vertebra below and inferior bevelled surface of vertebra above
+                - FACET (ZYGAPOPHYSEAL)
+                    - between superior articular facet of the vertebra below and the inferior articular facet of the vertebra above
+            - 
+            - BLOOD SUPPLY:
+                - ARTERIAL:
+                    - segmental br from the Vertebral arteries (Subclavian artery) and the Ascending cervical (Thyrocervical trunk – Subclavian) arteries
+                - VENOUS:
+                    - Basivertebral veins, Internal vertebral venous plexus, External vertebral venous plexus
+                    - 
+            - VARIANT ANATOMY:
+                - Variable presence of bifid spinous process
+                - Variable length of spinous process
+                - Fused vertebra
+                - Absent or underdeveloped uncinate process
+                - Hemivertebra
+                - Accessory tranverse foramen
+                - 
+            - OSSIFICATION:
+                - PRIMARY: body x1, vertebral arch x2 (appear 9-10 weeks).
+                    - Vertebral arches fuse posteriorly at 2-3 years. Body fuse with arch at 3-6 years.
+                - SECONDARY: tips of transverse process x2, tip of spinous process x1, superior and inferior aspect of body – fuse at ~30years
+            - 
+            - EXTRA:
+                - ATTACHMENTS:
+                    - LIGAMENTS:
+                        - Anterior longitudinal ligament – anterior surface vertebral body
+                        - Posterior longitudinal ligament – posterior surface vertebral body
+                        - Ligamentum flavum – anterior surface lamina
+                        - Ligamentum nuchae – bifid notch of spinous process
+                        - Supraspinous (C7 to sacrum) and Interspinous ligament – spinous process
+                        - Intertransverse ligament – transverse process
+                    - MUSCULOTENDINOUS:
+                        - Anterior surface - Longus colli vertical part
+                        - Anterior tubercle - Scalenus anterior, Longus capitis, Longus colli oblique part, Anterior Intertransversarii
+                        - Posterior tubercle - Scalenus medius, Scalenus posterior, Levator scapulae, Splenius cervicis, Iliocostalis cervicis, Longissimus cervicis, Posterior Intertransversarii
+                        - Spinous process – Spinalis cervicis, Semispinalis cervicis, Multifidus, Interspinales
+                - RELATIONS:
+                    - Anterior: Hypopharynx, Nasopharynx anterior to C2, cervical Oesophagus, Flexor muscles of head and neck
+                    - Posterior: Ligamentum nuchae, Paraspinal muscles, Extensors of head and neck
+                    - Lateral: Anterolateral is CCA below C4 and ICA above C4
+            - 
+        - Vertebra L5
+            - Overview
+                - Lowest and Largest vertebra. Atypical due to its shape.
+            - FEATURES:
+                - BODY
+                    - Large oval shaped body, wider transversely than anteroposteriorly.
+                    - Longer anterior surface than posterior surface (sagittal plane) = Sharp lumbosacral angle
+                - VERTEBRAL ARCH
+                    - PEDICLE – project backwards
+                    - LAMINA – broad thick overlap minimally
+                    - ARTCULAR PROCESS
+                        - Superior – Posterior border – Mamillary process. Facet concave, facing medially and backwards.
+                        - Inferior – Facet convex, facing forwards (typical is forward and lateral).
+                    - VERTEBRAL FORAMEN – triangular. Larger than thoracic, smaller than cervical. Contains Cauda equina and spinal meninges
+                - TRANSVERSE PROCESS
+                    - Thick short and pyramidal (typical is thin and tapering – homologous to ribs. L3 has longest.)
+                    - Base attached to entire pedicle and encroaches onto body
+                    - Posteroinferior aspect = Accessory process – true transverse process
+                - SPINOUS PROCESS
+                    - single short thick and roughly horizontal (Rounded vs typical vertical quadrilateral)
+                    - 
+            - ARTICULATIONS:
+                - INTERVERTEBRAL
+                    - Superior and Inferior via L4/L5 and L5/S1 intervertebral discs
+                - FACET
+                    - L4/L5: Posteromedial SAF of L5 with Anterolateral IAF of L4
+                    - L5/S1: Anterior facing IAF of L5 with Posterior facing SAF of S1
+                    - 
+            - ATTACHMENTS:
+                - LIGAMENTS:
+                    - Anterior longitudinal ligament
+                    - Posterior longitudinal ligament
+                    - Ligamentum flavum
+                    - Supraspinous, Interspinous and Intertransverse ligaments
+                    - Iliolumbar ligament – from TP of L5 in 96% of cases
+                - MUSCULOTENDINOUS:
+                    - Vertebral body – Psoas major upper and lower border posetrolaterally
+                    - Spinous process – Posterior lamella of Thoracolumbar fascia, Erector Spinae, Multifidus, Interspinales
+                    - Transverse process – Anterior and Middle lamella of Thoracolumbar fascia, Quadratus lumborum, Erector spinae, Intertransversarii
+                    - Accessory process – Medial intertransverse
+                    - Mamillary process – Medial intertransverse and Multifidus
+            - 
+            - OSSIFICATION:
+                - same as other vertebra.
+                - Primary – neural arch x2 and body x1. Appear 9th week. Neural arch fuse 2-3years, neural arch to body 3-6 years.
+                - Secondary - Mamillary process x2. Costal process tip x2
+            - 
+            - VARIANTS:
+                - Lumbarisation of S1
+                - Sacralisation of L5
+                - Bifid spinous process
+                - Long spinous process fused with posterior tubercle S1
+                - L4/L5 or L5/S1 tropism, unusually oriented facet joints
+            - 
+            - RELATIONS:
+                - Anterior: Anterior longitudinal ligament, Median sacral artery, Anterior external vertebral venous plexus, Confluence of left and right Common Ilaic veins, Bilateral Common Ilac A, Bilateral ureters anterolaterally
+                - Posterior: Erector spinae, Posterior external vertebral venous plexus, Interspinales, Interspinous and supraspinous ligament
+                - Lateral:    Iliolumbar fascia, Thoracolumbar fascia, Psoas, Quadratus lumborum, Segmental lumbar vessels
+                - Superior: L4/L5 intervertebral disc, L4 exit nerve ventral ramus
+                - Inferior: L5/S1 intervertebral disc, L5 exit nerve ventral ramus
+            - 
+        - Vertebrae and spinal canal - venous drainage
+        - Vertebral extradural space including its contents
+        - 
+- 
